@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFFFFF,100:000080&height=200&text=DArt-B%20Github&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=42&desc=중앙대학교%20데이터%20분석학회&descSize=22&descAlign=50&descAlignY=80" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:C5C7CC,100:000080&height=200&text=DArt-B%20Github&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=42&desc=중앙대학교%20데이터%20분석학회&descSize=22&descAlign=50&descAlignY=80" />
 
 # 🎓 DArt-B Official 
 <img align="right" src="./images/Dartb.png" width="200" />
