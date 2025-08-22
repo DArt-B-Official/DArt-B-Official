@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4B0082,100:000080&height=200&text=DArt-B%20Github&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=42&desc=중앙대학교%20데이터%20분석학회&descSize=22&descAlign=50&descAlignY=80" />
 
-# 🎓 DArt-B Official 
+<h1 align="center">🎓 DArt-B Official 🎓</h1>
 <img align="right" src="./images/Dartb.png" width="200" />
 
 중앙대학교 데이터 분석 학회 **DArt-B (Data Analysis road to Business)** 공식 Github 입니다. <br>
