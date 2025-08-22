@@ -31,3 +31,14 @@
 - Markdown 문법을 활용해 **가독성 있게 기록**해주세요.  
 
 ---
+
+## How to Connect 
+
+<p align="center">
+  <a href="https://www.instagram.com/dart_b_official/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://blog.naver.com/dartbblog">
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+</p>
